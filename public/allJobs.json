@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "job_title": "Data Scientist",
+        "company_name": "Google LLC",
+        "salary_range": "20K-40K (per month)",
+        "work_type": "Onsite",
+        "experience": "3-5 years",
+        "educational_qualification": "Master's degree in Computer Science or related field"
+    },
+    {
+        "id": "2",
+        "job_title": "Software Engineer",
+        "company_name": "Facebook Inc.",
+        "salary_range": "15K-35K (per month)",
+        "work_type": "Remote",
+        "experience": "2-4 years",
+        "educational_qualification": "Bachelor's degree in Software Engineering or related field"
+    },
+    {
+        "id": "3",
+        "job_title": "Product Manager",
+        "company_name": "Amazon.com, Inc.",
+        "salary_range": "25K-45K (per month)",
+        "work_type": "Onsite",
+        "experience": "5-7 years",
+        "educational_qualification": "MBA or equivalent experience"
+    },
+    {
+        "id": "4",
+        "job_title": "UX Designer",
+        "company_name": "Apple Inc.",
+        "salary_range": "18K-38K (per month)",
+        "work_type": "Remote",
+        "experience": "3-5 years",
+        "educational_qualification": "Bachelor's degree in Design or related field"
+    },
+    {
+        "id": "5",
+        "job_title": "Machine Learning Engineer",
+        "company_name": "Microsoft Corporation",
+        "salary_range": "22K-42K (per month)",
+        "work_type": "Onsite",
+        "experience": "4-6 years",
+        "educational_qualification": "Master's degree in Machine Learning or related field"
+    },
+    {
+        "id": "6",
+        "job_title": "Data Analyst",
+        "company_name": "IBM",
+        "salary_range": "16K-36K (per month)",
+        "work_type": "Remote",
+        "experience": "3-4 years",
+        "educational_qualification": "Bachelor's degree in Statistics or related field"
+    },
+    {
+        "id": "7",
+        "job_title": "Front-End Developer",
+        "company_name": "Adobe Systems",
+        "salary_range": "17K-37K (per month)",
+        "work_type": "Onsite",
+        "experience": "2-3 years",
+        "educational_qualification": "Bachelor's degree in Computer Science or related field"
+    },
+    {
+        "id": "8",
+        "job_title": "DevOps Engineer",
+        "company_name": "Netflix, Inc.",
+        "salary_range": "19K-39K (per month)",
+        "work_type": "Remote",
+        "experience": "4-5 years",
+        "educational_qualification": "Bachelor's degree in Information Technology or related field"
+    },
+    {
+        "id": "9",
+        "job_title": "Cybersecurity Specialist",
+        "company_name": "Cisco Systems",
+        "salary_range": "23K-43K (per month)",
+        "work_type": "Onsite",
+        "experience": "5-6 years",
+        "educational_qualification": "Master's degree in Cybersecurity or related field"
+    },
+    {
+        "id": "10",
+        "job_title": "Database Administrator",
+        "company_name": "Oracle Corporation",
+        "salary_range": "20K-40K (per month)",
+        "work_type": "Onsite",
+        "experience": "4-5 years",
+        "educational_qualification": "Bachelor's degree in Computer Science or related field"
+    }
+]

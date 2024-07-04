@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "companyLogo": "https://i.postimg.cc/Wzj2ZJtk/google.png",
+        "companyName": "Google LLC",
+        "jobtitle": "Technical Database Engineer",
+        "companyType": "Technology",
+        "companyLocation": "Mountain View, CA, USA",
+        "salaryRange": "100k - 150k",
+        "jobDescription": "As a Software Engineer at Google, you will work on cutting-edge technology and help build innovative products that improve the lives of millions.",
+        "jobResponsibilities": [
+            "Develop and maintain web applications.",
+            "Collaborate with cross-functional teams to define and design new features.",
+            "Write clean, scalable, and efficient code.",
+            "Participate in code reviews."
+        ],
+        "educationalRequirements": "Bachelor's degree in Computer Science or a related field from a reputable university.",
+        "experiences": "2-3 years in software development.",
+        "contactInformation": {
+            "phone": "+1-800-555-1234",
+            "email": "jobs@google.com",
+            "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043, USA"
+        }
+    },
+    {
+        "id": 2,
+        "jobtitle": "Software Engineer",
+        "companyLogo": "https://i.postimg.cc/Dyvvys9V/tesla.png",
+        "companyName": "Tesla",
+        "companyType": "Automotive",
+        "companyLocation": "Palo Alto, CA, USA",
+        "salaryRange": "80k - 120k",
+        "jobDescription": "Join Tesla as a Mechanical Engineer and contribute to the development of innovative electric vehicles and energy products.",
+        "jobResponsibilities": [
+            "Design and develop mechanical components and systems.",
+            "Conduct testing and validation of mechanical designs.",
+            "Collaborate with the product development team.",
+            "Ensure designs meet quality and safety standards."
+        ],
+        "educationalRequirements": "Bachelor's degree in Mechanical Engineering or a related field from a reputable university.",
+        "experiences": "2-3 years in mechanical engineering.",
+        "contactInformation": {
+            "phone": "+1-800-555-5678",
+            "email": "careers@tesla.com",
+            "address": "3500 Deer Creek Road, Palo Alto, CA 94304, USA"
+        }
+    },
+    {
+        "id": 3,
+        "jobtitle": "Senior Project manager",
+        "companyLogo": "https://i.postimg.cc/0jf902JH/netflix.png",
+        "companyName": "Netflix",
+        "companyType": "Consumer Goods",
+        "companyLocation": "Dhaka, Bangladesh",
+        "salaryRange": "10k - 30k",
+        "jobDescription": "As a Marketing Specialist at Unilever, you will create and implement marketing strategies to promote our products and brand.",
+        "jobResponsibilities": [
+            "Develop and execute marketing campaigns.",
+            "Analyze market trends and consumer behavior.",
+            "Coordinate with sales and product teams.",
+            "Manage marketing budgets."
+        ],
+        "educationalRequirements": "Bachelor's degree in Marketing or a related field from a reputable university.",
+        "experiences": "2-3 years in marketing.",
+        "contactInformation": {
+            "phone": "+880-123-456789",
+            "email": "hr@unilever.com",
+            "address": "123 Corporate Road, Dhaka, Bangladesh"
+        }
+    },
+    {
+        "id": 4,
+        "jobtitle": "Data Scientist",
+        "companyLogo": "https://i.postimg.cc/44b4gwFb/airbnb.png",
+        "companyName": "Airbnb",
+        "companyType": "Technology",
+        "companyLocation": "Redmond, WA, USA",
+        "salaryRange": "90k - 130k",
+        "jobDescription": "Microsoft is seeking a Data Analyst to help drive business decisions through data insights and analytics.",
+        "jobResponsibilities": [
+            "Analyze large datasets to extract meaningful insights.",
+            "Develop data models and visualizations.",
+            "Collaborate with business units to identify data needs.",
+            "Ensure data integrity and accuracy."
+        ],
+        "educationalRequirements": "Bachelor's degree in Data Science, Statistics, or a related field from a reputable university.",
+        "experiences": "2-3 years in data analysis.",
+        "contactInformation": {
+            "phone": "+1-800-555-9012",
+            "email": "careers@microsoft.com",
+            "address": "One Microsoft Way, Redmond, WA 98052, USA"
+        }
+    }
+]
